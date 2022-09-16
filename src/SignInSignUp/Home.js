@@ -9,6 +9,7 @@ function Home(){
         localStorage.clear()
         window.location.reload()
     }
+
     
     return(
         <div>
